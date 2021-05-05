@@ -18,7 +18,7 @@
 
   /* Image background  */
 
- --imgbg: url(/img/wal.jpg); 
+ --imgbg:https://github.com/jengkook/Bento/blob/master/img/wal.jpg; 
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
